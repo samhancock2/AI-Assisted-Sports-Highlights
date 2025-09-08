@@ -1,6 +1,6 @@
 ## Sports Highlight Generator
 
-This project automatically generates football match highlight reels by combining speech transcription (OpenAI Whisper), audio excitement levels, text analysis (NLP), and keyphrase matching.
+This short project automatically generates football match highlight reels by combining speech transcription (OpenAI Whisper), audio excitement levels, text analysis (NLP), and keyphrase matching.
 
 The workflow extracts commentary from a full match recording, identifies exciting moments, and produces a highlight video.
 
