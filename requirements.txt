@@ -1,0 +1,7 @@
+pandas
+numpy
+moviepy
+openai-whisper
+nltk
+torch
+tqdm
